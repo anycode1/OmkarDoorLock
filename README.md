@@ -105,4 +105,5 @@ Make sure to install the following Arduino libraries:
 ---
 
 ## 👨‍💻 Author  
-Developed for **ESP32 Smart Security System** integrating multiple authentication methods.  
+Developed for **ESP32 Smart Security System** integrating multiple authentication methods.
+Made by The Boys
